@@ -1,7 +1,6 @@
 /**
- * @author Xavier Fromageot
+ * @author Rohit Alladi
  * @date May 2017
- * @group Marketingforce Classes
  * @group-content ../ApexDocContent/Classes.html
  * @description Used to prevent trigger handler methods from firing more than once
  **/
